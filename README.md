@@ -1,20 +1,62 @@
 Bank App
 
-Overview:
-The Bank App is a simple web application designed to provide users with an intuitive interface for banking services. The application features a main welcome page and allows users to navigate to the Login and Signup pages for authentication.
+Overview
 
-Features:
-Welcome Page: Displays a greeting message and navigation buttons.
-Login Page: Allows existing users to log into their accounts securely.
-Signup Page: Provides a registration form for new users.
+The Bank App is a simple and intuitive web application designed to provide essential banking services. It features a user-friendly interface where users can access a Welcome Page, Login Page, and Signup Page to manage their accounts securely.
+
+Features
+
+Welcome Page: Displays a greeting message and provides navigation options.
+
+Login Page: Allows existing users to log in securely.
+
+Signup Page: Enables new users to register for an account.
 
 Technologies Used
-Frontend: HTML, CSS, JavaScript
-Backend: Node.js, Express (if applicable)
-Database: MySQL / MongoDB (if applicable)
-Version Control: Git & GitHub
 
-Usage:
+Frontend
+
+HTML
+
+Backend
+
+Node.js
+
+Express.js
+
+Version Control
+
+Git & GitHub
+
+Prerequisites
+
+Node.js installed on your system (if using a backend)
+
+Git installed
+
+Steps to Run the Project
+
+Clone the Repository:
+
+git clone <repository-url>
+cd bank-app
+
+Install Dependencies (at backend):
+
+npm install
+
+Start the Server:
+
+npm start
+
+navigate to http://localhost:3000
+
+Usage
+
 Open the app in a web browser.
+
 Click on Login if you already have an account.
+
 Click on Signup to create a new account.
+
+Navigate through the app to access banking features.
